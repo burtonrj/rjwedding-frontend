@@ -41,7 +41,7 @@
         <!-- First column -->
         <div class="bg-indigo-100 rounded p-4 shadow-xl">
             <h3 class="mb-2 text-xl text-center"><b>What to expect on the day</b></h3>
-            <p class="text-center">🍔 <b><a href="https://whatthepeck.co.uk" class="underline decoration-orange-500">What the Peck</a></b> from Bury St Edmands will be providing the main course. Expect their amazing chicken burgers, a tasty veggie option, and fries</p>
+            <p class="text-center">🍔 <b><a href="https://whatthepeck.co.uk" class="underline decoration-blue-500">What the Peck</a></b> from Bury St Edmunds will be providing the main course. Expect their amazing chicken burgers, a tasty veggie option, and fries</p>
             <p class="text-center mt-2">🍹 Welcome drinks are on us, but a local bar will be serving soft drinks and alcohol throughout the day and into the night, so please bring cash/card</p>
             <p class="text-center mt-2">🍰 We'll have brownies and wedding cake (ofc!) for desert</p>
             <p class="text-center mt-2">🍪 We're obnoxiously British, so we'll have a biscuit table and various snacks throughout the evening (please let us know if you have allergies!)</p>

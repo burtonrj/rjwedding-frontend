@@ -9,6 +9,9 @@
   import Food from './food.svelte';
   import Login from './login.svelte';
 	import Location from './location.svelte';
+	import Errorbox from './errorbox.svelte';
+
+  let error;
 
 </script>
 
