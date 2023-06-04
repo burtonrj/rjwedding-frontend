@@ -7,6 +7,7 @@
     let error;
 
     async function handleRSVP(answer, eventType){
+        confetti = false;
         const response = await fetch(`${apiUrl}/rsvp`, 
             {
                 method: "POST",

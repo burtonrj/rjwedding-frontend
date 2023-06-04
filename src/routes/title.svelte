@@ -1,8 +1,8 @@
 <script>
-    import { reveal } from 'svelte-reveal';
+    
     import {partyDate, ceremonyDate, displayName, ceremonyCount} from "./store.js";
 </script>
-<div use:reveal={{ transition: "fade" }}>
+<div >
     <h3 class="text-center text-3xl text-center mx-auto py-3">Hi {$displayName} 👋 </h3>
     {#if $ceremonyCount === 0}
     <p class="text-center text-md text-center mx-2 px-4 py-0">We would love for you to join us on <b>{partyDate}</b> to celebrate us getting married!</p>

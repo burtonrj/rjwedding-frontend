@@ -1,5 +1,5 @@
 <script>
-    import { reveal } from 'svelte-reveal';
+    
     import { onMount } from 'svelte';
     import { fly } from 'svelte/transition'; 
 
@@ -20,7 +20,7 @@
     });
 </script>
 
-<picture use:reveal={{ transition: "fade" }} class="-mt-2 mb-2" transition:fly="{{ y: 200, duration: 2000 }}">
+<picture  class="-mt-2 mb-2" transition:fly="{{ y: 200, duration: 2000 }}">
     <source srcset="/bunting-desktop.svg" media="(min-width: 768px)">
     <source srcset="/bunting-mobile.svg" media="(max-width: 767px)">
     <!-- svelte-ignore a11y-img-redundant-alt -->

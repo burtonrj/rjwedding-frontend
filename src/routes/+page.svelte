@@ -1,5 +1,5 @@
 <script>
-  import { reveal } from 'svelte-reveal';
+  
   import { displayName } from './store.js';
   import Title from './title.svelte';
   import Header from './header.svelte?browser';
@@ -9,16 +9,13 @@
   import Food from './food.svelte';
   import Login from './login.svelte';
 	import Location from './location.svelte';
-	import Errorbox from './errorbox.svelte';
-
-  let error;
 
 </script>
 
 {#if $displayName}
   <Header/>
   <Title/>
-  <div use:reveal={{ transition: "fade" }} class="mx-auto px-4 py-8 -mb-6">
+  <div  class="mx-auto px-4 py-8 -mb-6">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mx-2">
       <!-- First column -->
       <Attendance/>
@@ -29,7 +26,7 @@
   <Bunting/>
   <Food/>
   <Bunting/>
-  <div use:reveal={{ transition: "fade" }} class="mx-auto px-4 py-8 -mb-6">
+  <div  class="mx-auto px-4 py-8 -mb-6">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mx-2">
       <div class="bg-indigo-100 rounded p-4 shadow-xl">
         <h3 class="mb-2 text-xl text-center"><b>Party Itinerary</b></h3>
@@ -47,7 +44,7 @@
     </div>
   </div>
   <Bunting/>
-  <div use:reveal={{ transition: "fade" }} class="mx-auto px-4 py-8 -mb-6">
+  <div  class="mx-auto px-4 py-8 -mb-6">
     <div class="grid grid-cols-1 md:grid-cols-1 gap-6 mx-2">
       <div class="bg-indigo-100 rounded p-4 shadow-xl">
         <h3 class="mb-2 text-xl text-center"><b>FAQs</b></h3>
@@ -73,7 +70,7 @@
     </div>
   </div>
   <Bunting/>
-  <div use:reveal={{ transition: "fade" }} class="mx-auto px-4 py-8 -mb-6">
+  <div  class="mx-auto px-4 py-8 -mb-6">
     <div class="grid grid-cols-1 md:grid-cols-1 gap-6 mx-2">
       <div class="bg-indigo-100 rounded p-4 shadow-xl">
         <h3 class="mb-2 text-xl text-center mb-4"><b>Want to contribute to the wedding playlist? 🎶</b></h3>
@@ -98,7 +95,7 @@
       </div>
     </div>
   </div>
-  <footer use:reveal={{ transition: "fade" }} class="bg-white rounded-lg shadow m-4">
+  <footer  class="bg-white rounded-lg shadow m-4">
     <div class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between">
       <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://www.linkedin.com/in/burtonbiomedical/" class="hover:underline">Dr Burton</a>. All Rights Reserved.
     </span>
