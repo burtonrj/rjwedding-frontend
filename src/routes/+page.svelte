@@ -54,7 +54,7 @@
             <strong>Will there be vegetarian and vegan food options? </strong>
             <p>Yep 😊 there will be lots of options. Please fill in the "Allergies/Dietary requirements" section if there is anything in particular we need to be aware of.</p>
             <strong>What should I do about a wedding present?</strong>
-            <p>We've lived together for a while now so we have everything we need, but if you would like to gift us something, money is always appreciated 😊</p>
+            <p>We've lived together for a while now so we have everything we need, but if you would like to gift us something, we would appreciate some pennies to put towards our honeymoon 😊</p>
             <strong>Is there parking?</strong>
             <p>There will be some parking on a first-come first-serve basis, so please get taxis if you can.</p>
             <strong>What are the local taxi companies?</strong>
@@ -64,7 +64,8 @@
             <p>Five Eights - 01206 588888</p>
             <p>Book your cabs in advance!</p>
             <strong>Can I bring my dog? </strong>
-            <p>No, a dog will be provided 🐶. In all seriousness, Bertie the chocolate labrador will be there, but she gets too excited with other dogs and tends to hurt herself. Please respect her home.</p>
+            <p>No, a dog will be provided 🐶. In all seriousness, Bertie the chocolate labrador will be there, but she gets too excited with other dogs and tends to hurt herself. 
+              She also loves food a little too much for her own good (a typical labrador), so please refrain from feeding her.</p>
         </div>
       </div>
     </div>
