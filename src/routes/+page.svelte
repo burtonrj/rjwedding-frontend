@@ -65,7 +65,7 @@
             <p>Book your cabs in advance!</p>
             <strong>Can I bring my dog? </strong>
             <p>No, a dog will be provided 🐶. In all seriousness, Bertie the chocolate labrador will be there, but she gets too excited with other dogs and tends to hurt herself. 
-              She also loves food a little too much for her own good (a typical labrador), so please refrain from feeding her.</p>
+              She also loves food a little too much for her own good (a typical labrador), so please don't feed her.</p>
         </div>
       </div>
     </div>
