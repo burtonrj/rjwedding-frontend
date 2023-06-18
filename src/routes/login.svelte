@@ -2,6 +2,7 @@
     import { 
       loginError, 
       apiUrl,
+      admin,
       displayName,
       dietaryRequirements, 
       songChoice, 
@@ -95,6 +96,7 @@
             plusOne.set(data.plus_one);
             partyAttendance.set(data.party_attendance);
             ceremonyAttendance.set(data.ceremony_attendance);
+            admin.set(data.admin);
 
           } else {
             loginError.set('Whoops! That code is not valid. Check the code matches the one on your invite.');

@@ -7,6 +7,7 @@ export const parkingLimit = import.meta.env.VITE_PARKING_LIMIT
 
 export const loginError = writable(null);
 
+export const admin = writable(false);
 export const displayName = writable(null);
 export const partyCount = writable(null);
 export const ceremonyCount = writable(null);
@@ -32,4 +33,5 @@ export function invalidCode(){
     ceremonyAttendance.set(null);
     partyCount.set(null);
     ceremonyCount.set(null);
+    admin.set(false);
 }
