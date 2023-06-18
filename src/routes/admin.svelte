@@ -40,9 +40,9 @@
         <h3 class="mb-2 text-xl text-center"><b>Attendance stats</b></h3>
         <div class="mx-2">
           <strong>Number of people attending the ceremony:</strong>
-          <p>{partyCount}</p>
-          <strong>Number of people not attending the party:</strong>
           <p>{ceremonyCount}</p>
+          <strong>Number of people attending the party:</strong>
+          <p>{partyCount}</p>
           <strong>Number of responses:</strong>
           <p>{reponseCount}/{totalGrps}</p>
         </div>
