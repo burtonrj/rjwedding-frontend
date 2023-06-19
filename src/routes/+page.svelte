@@ -39,8 +39,8 @@
           <h3 class="mb-2 text-xl text-center"><b>Party Itinerary</b></h3>
           <ul>
               <li>3:00 PM - Arrival & Welcome drinks 🍹</li>
-              <li>3:30 PM - Welcome speeches 🎤</li>
-              <li>4:00 PM - Food time! 🍔</li>
+              <li>4:00 PM - Welcome speeches 🎤</li>
+              <li>4:30 PM - Food time! 🍔</li>
               <li>5:30 PM - Cake cutting! 🍰</li>
               <li>6:00 PM - First dance 💃🕺</li>
               <li>6:30 PM - Band starts 🎸 Drink, dance, & be merry! 🥳</li>
