@@ -73,6 +73,11 @@
               <strong>Can I bring my dog? </strong>
               <p>No, a dog will be provided 🐶. In all seriousness, Bertie the chocolate labrador will be there, but she gets too excited with other dogs and tends to hurt herself. 
                 She also loves food a little too much for her own good (a typical labrador), so please don't feed her.</p>
+              <strong>Are children welcome?</strong>
+              <p>Yes! We want to make our party as inclusive as possible. Please be aware however, that due to number of people we're catering for we are limited with our food options. The main meal will consist of 
+                chicken burgers and chips (plus a veggie option), and there will be snacks, biscuits, deserts, and a cheese board. If your child has specific dietary requirements, please feel free to bring your own food. 
+                We can provide refrigeration and access to a microwave if needed.
+              </p>
           </div>
         </div>
       </div>
